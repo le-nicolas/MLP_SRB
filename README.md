@@ -1,6 +1,6 @@
-# MLP_SRB
+# Load2Moment
 
-Multi-Layer Perceptron for **Statics of a Simply Supported Rigid Beam**.
+Load2Moment is a crafty Multi-Layer Perceptron for **Statics of a Simply Supported Rigid Beam**.
 
 This project generates analytical statics data for a point load on a beam and
 trains a small neural network (MLP) to approximate the mapping:

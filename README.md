@@ -7,6 +7,10 @@ trains a small neural network (MLP) to approximate the mapping:
 
 `force position -> [left reaction, right reaction, maximum bending moment]`
 
+## Sample Result
+
+![Sample analytical vs MLP prediction output](assets/sample-output.png)
+
 ## What It Does
 
 - Computes exact support reactions and maximum bending moment from equilibrium.
